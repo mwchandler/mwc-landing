@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: mwc
+permalink: /mwc/
 ---
-michael
+more .md file here here on auto gen on the .md file This is the mwc permalink
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
