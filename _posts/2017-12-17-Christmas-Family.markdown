@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "a day with family"
+title:  "a curated post"
 date:   2017-12-17 02:33:27 -0500
-categories: personal-note 
+categories: curated
 ---
 
 This is what you'll find. Another note. Love you!
