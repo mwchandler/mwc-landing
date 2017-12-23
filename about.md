@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+cat-image: canyon.jpeg
 ---
 michael
 
